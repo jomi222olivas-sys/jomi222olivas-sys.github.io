@@ -1,0 +1,64 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡  SERVICIOS DE DESARROLLO — JOMI  ⚡
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hola! Soy **Jomi**, desarrollador de 14 años con dominio de más de 9 lenguajes
+de programación. Ofrezco servicios de desarrollo a medida — calidad profesional,
+precios justos.
+
+**🌐 Portafolio con todos mis proyectos:**
+👉 https://jomi222olivas-sys.github.io
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 **¿QUÉ PUEDO HACER POR TI?**
+
+🤖 **Bots de Discord** — moderación con IA, economía, tickets,
+   música, comandos personalizados, integraciones con APIs.
+   *(Ejemplo: hice un bot enterprise con XLM-RoBERTa + BERT)*
+
+🌐 **Desarrollo Web** — landing pages, dashboards, APIs REST,
+   aplicaciones full-stack. Frontend y backend.
+
+⚙️  **Scripts y automatización** — scrapers, bots para cualquier
+   plataforma, automatización de procesos, herramientas CLI.
+
+🧠 **Integración de IA/ML** — chatbots inteligentes, agentes
+   autónomos, análisis de sentimiento, clasificadores NLP.
+
+🐳 **Backend & Sistemas** — APIs, bases de datos, microservicios,
+   arquitecturas distribuidas, herramientas DevOps.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 **LENGUAJES** que manejo:
+
+`JavaScript` · `Python` · `C++` · `Java` · `Go`
+`PHP` · `C#` · `Rust` · `R` · `PL/SQL`
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📂 **PROYECTOS REALES (GitHub):**
+
+♟️ **chess-engine-ai** — Motor de ajedrez en C++17 con Alpha-Beta,
+   Magic Bitboards y frontend web. Nivel Stockfish.
+   → github.com/jomi222olivas-sys/chess-engine-ai
+
+🤖 **nova-ai-agent** — Framework de agentes IA autónomos (ReAct loop)
+   con mascota VTuber de escritorio.
+   → github.com/jomi222olivas-sys/nova-ai-agent
+
+🐳 **orquestador** — Orquestador de contenedores desde cero en Go.
+   → github.com/jomi222olivas-sys/orquestador
+
+🛡️ **sistema-moderacion-cognitiva-discord** — Bot enterprise con
+   NLP/BERT, microservicios Node.js + Python + PostgreSQL.
+   → github.com/jomi222olivas-sys/sistema-moderacion-cognitiva-discord
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📩 **¿INTERESADO?**
+
+Mándame un DM.
+Cuéntame tu idea y te doy presupuesto sin compromiso. ✌️
+
+GitHub: github.com/jomi222olivas-sys
+Discord: @jomi2_2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
